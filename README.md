@@ -3,7 +3,7 @@
 
 # Welcome to DavidDaDev GitHub Page
 
-This project is a Tic Tac Toe web app with HTML, JS, CSS.
+This project is a Pin Pong game with HTML, JS, CSS.
 
 Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
